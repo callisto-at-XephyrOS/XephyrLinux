@@ -1,0 +1,4 @@
+NAME="XephyrOS"
+PRETTY_NAME="XephyrOS"
+ID=xephyr
+BUILD_ID=rolling
